@@ -1,0 +1,4 @@
+public class SirensSong {
+    public static void main(String[] args) {
+    }
+}
